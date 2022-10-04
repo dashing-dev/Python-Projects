@@ -1,6 +1,6 @@
 import requests 
 
-apikey = 'e84c9a904b7a5ec195ef576707a7e779'
+apikey = 'your api key'
 print("                   ____      /\      _____     |      |       ____   _____            ")
 print("\      /\      /  |         /  \       |       |      |      |       |    |        ")
 print(" \    /  \    /   |____    /    \      |       |______|      |____   |____|       ")
